@@ -1,0 +1,130 @@
+
+
+
+.navbar{
+    background-color:whitesmoke;
+    position:sticky;
+    top: 0%;
+    overflow:hidden;    
+    z-index: 1;
+
+    
+}
+
+.nav-link{
+    color: black;
+}
+
+.top-heading{
+    text-align: center;
+    padding: 20pt 0pt;
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(17, 145, 180);
+}
+
+.top{
+    padding-top: 60pt;
+    text-align: center;
+}
+
+.top-heading2{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 600;
+    color: rgb(154, 29, 29);
+}
+
+.sub-heading{
+    color: brown;
+    font-size:x-large;
+    font-weight: 600;
+}
+
+.bottom-heading{
+    text-align: center;
+    color: rgb(17, 145, 180);
+    font-size: x-large;
+    font-weight: 600;
+    padding: 20pt 0pt 10pt 0pt;
+}
+.bottom-heading2{
+    text-align: center;
+    color: rgb(154, 29, 29);
+    font-size: xx-large;
+    font-weight: 600;
+    padding-bottom: 20pt;
+}
+
+.bottom img{
+    padding: 0pt 10pt;
+}
+
+.bottom p {
+    color: brown;
+    font-weight: 700;
+    line-height: 30pt;
+    padding: 0pt 10pt;
+    font-size: small;
+   
+}
+.bottom a{
+    padding: 0pt 10pt;
+    color: black;
+} 
+
+.bottom{
+    padding-bottom: 40pt;
+}
+.details{
+    background-image: url(images/bg-img.png);
+}
+.advisors{
+    background-color: rgb(47, 149, 218);
+    padding: 50pt 220pt;
+    color: black;
+    justify-items: center   ;
+}
+.adv1{
+    text-align: center;
+    padding-top: 20pt;
+    color: white;
+}
+
+.adv2{
+    text-align: center;
+    padding: 10pt 0pt;
+}
+
+.advisors hr{
+    color: white;
+}
+
+.carousel-item{
+    padding: 25pt 0pt;
+}
+.name{
+    color: white;
+    font-size: larger;
+    padding-top: 10pt;
+}
+
+.footer{
+    padding: 50pt 20pt;
+    background-image:url(images/12.jpg);
+    color: aliceblue;
+}
+
+.footer div{
+    padding: 5pt 25pt;
+    font-size: small;
+}
+
+.last{
+  padding: 100pt ;
+  line-height: 100pt;
+}
+
+.adv{
+    padding-right: 50pt;
+}

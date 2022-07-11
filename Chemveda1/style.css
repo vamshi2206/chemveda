@@ -1,0 +1,30 @@
+body{
+    background-size: 1250pt 600pt;
+    background-repeat: no-repeat;
+    position: fixed;
+}
+
+.navbar{
+    background-color: rgb(245, 245, 245);
+}
+.inputs{
+    display:flex;
+    flex-direction: column;
+    position: fixed;
+    top: 200pt;
+    right: 460pt;
+    border: 5pt solid whitesmoke;
+    border-radius: 25pt;
+    background-color: whitesmoke;
+    padding: 1% 2%;
+
+  
+}
+
+.logo{
+    font-weight: bold;
+}
+
+.inner{
+    margin-left: 50pt;
+}
